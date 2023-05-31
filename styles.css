@@ -1,0 +1,96 @@
+
+
+body {
+    height: 1440px;
+    width: 900px;
+}
+
+
+header {
+    margin-left: 50px;
+    background-color: aquamarine;
+    width: 800px;
+    height: 80px;
+    box-shadow: 5px 5px 6px 4px;
+}
+img {
+    box-shadow: 5px 5px 6px 4px;
+    margin-top: 5px;
+ 
+ }
+h1 {
+    text-align: auto;
+    margin: 5%;
+    
+}
+#float {
+    width: 550px;
+    height: 350px;
+    display: flex;
+    margin-top: 23%;
+    margin-left: 50px;
+    background: gold;
+    padding:2em;
+    position: absolute;
+    text-align: center;
+}
+.time {
+    width: 194px;
+    height: 413px;
+    background-color: blue;
+    display: flex;
+    margin-top: -21%;
+    margin-left: 585px;
+    position: absolute;
+    text-align: right;
+    
+}
+.btn {
+    margin-top: 80px;
+    margin-left: 12%;
+    width: 145px;
+    height: 45px;
+    position: absolute;
+}
+.bnt {
+    margin-top: 160px;
+    margin-left: 12%;
+    width: 145px;
+    height: 45px;
+    position: absolute;
+}
+.preparation {
+width: 550px;
+height: 350px;
+display: flex;
+margin-top: 48%;
+margin-left: -30px;
+background: orange;
+padding:2em;
+position: absolute;
+
+}
+.btt {
+    margin-top: 80px;
+    height:40px;
+    width: 40px;
+    margin-left: 30px;
+    position: absolute;
+}
+p{
+  margin-top: 80px;
+  margin-left:  80px;
+  margin-right: 20px;
+  position: absolute;
+}
+footer {
+    display: block;
+    width: 800px;
+    height: 40px;
+    margin-top: 95%;
+    position: absolute;
+    margin-left: 4%;
+    background-color: beige;
+    text-align: center;
+
+}
